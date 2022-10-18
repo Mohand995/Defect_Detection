@@ -1,0 +1,3 @@
+Train Data ..............................  '/content/drive/MyDrive/Defect_inspection/Train'
+Val Data................................. '/content/drive/MyDrive/Defect_inspection/Val'
+Test Data................................ '/content/drive/MyDrive/Defect_inspection/Test'
